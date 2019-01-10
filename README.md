@@ -1,1 +1,2 @@
-#### Lottery with Barrage
+# award_sys
+# lottery_without_db
