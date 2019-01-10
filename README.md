@@ -1,2 +1,1 @@
-# award_sys
-# lottery_without_db
+# lottery_with_barrage
